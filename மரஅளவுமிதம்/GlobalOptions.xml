@@ -1807,7 +1807,7 @@
 	<ListPresenterColumns Type="TPresenterColumnsDictionary"></ListPresenterColumns>
 	<FilesInTree>True</FilesInTree>
 	<ExpandFilesItems>False</ExpandFilesItems>
-	<UsageCount>2</UsageCount>
+	<UsageCount>0</UsageCount>
 	<FolderDateBasedOnFilesOnly>False</FolderDateBasedOnFilesOnly>
 	<ShowPrecedingValuesInNameColumn>True</ShowPrecedingValuesInNameColumn>
 	<UseSimpleMailBody>False</UseSimpleMailBody>
@@ -1886,7 +1886,7 @@
 	<ChartShowLabels>True</ChartShowLabels>
 	<WrapOverviewPanel>False</WrapOverviewPanel>
 	<RenamingRules></RenamingRules>
-	<UIStyle>0</UIStyle>
+	<UIStyle>2</UIStyle>
 	<ShowFirstRunWizard>True</ShowFirstRunWizard>
 	<UseRibbonUI>True</UseRibbonUI>
 	<ExportFontSize>32</ExportFontSize>
@@ -1907,7 +1907,7 @@
 	<ThreadPriority>2</ThreadPriority>
 	<CheckForUpdateOptions Type="TCheckForUpdateOptions">
 		<LatestOnlineVersion>-1</LatestOnlineVersion>
-		<LastAutomaticCheckForUpdate>0</LastAutomaticCheckForUpdate>
+		<LastAutomaticCheckForUpdate>44993.9058344097</LastAutomaticCheckForUpdate>
 		<CheckForUpdatesAutomatically>True</CheckForUpdatesAutomatically>
 	</CheckForUpdateOptions>
 	<Language>en</Language>
